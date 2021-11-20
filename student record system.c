@@ -11,6 +11,7 @@ struct student{
     char parname[20];
     int Class;
     long unsigned int phone_no;
+    //kill 9one
 };
 
 struct student stu;
